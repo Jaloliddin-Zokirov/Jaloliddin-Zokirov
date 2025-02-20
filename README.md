@@ -31,17 +31,18 @@
 ---
 
 ### 🔗 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://jaloliddindev.uz)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/))  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zokirov_Jaloliddin)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaloliddinzokirov.dev@gmail.com)  
+<p align="center">
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://jaloliddindev.uz)  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/))  
+  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zokirov_Jaloliddin)  
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaloliddinzokirov.dev@gmail.com)  
+</p>
 
 ---
 
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaloliddin-Zokirov&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaloliddin-Zokirov&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
