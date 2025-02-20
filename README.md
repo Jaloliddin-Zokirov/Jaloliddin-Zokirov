@@ -17,14 +17,6 @@
 
 ---
 
-### 🔗 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://jaloliddindev.uz)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/))  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zokirov_Jaloliddin)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaloliddinzokirov.dev@gmail.com)  
-
----
-
 ### 🚀 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -35,6 +27,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>  
+
+---
+
+### 🔗 Connect With Me  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://jaloliddindev.uz)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/))  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zokirov_Jaloliddin)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaloliddinzokirov.dev@gmail.com)  
 
 ---
 
