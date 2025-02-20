@@ -32,10 +32,18 @@
 
 ### 🔗 Connect With Me  
 <p align="center">
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white)](https://jaloliddindev.uz)  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/))  
-  [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zokirov_Jaloliddin)  
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaloliddinzokirov.dev@gmail.com)  
+  <a href="https://jaloliddindev.uz" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaloliddin-zokirov-4869b0276/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Zokirov_Jaloliddin" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:jaloliddinzokirov.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
