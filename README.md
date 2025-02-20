@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaloliddin-Zokirov&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JZokirov&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaloliddin-Zokirov&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
