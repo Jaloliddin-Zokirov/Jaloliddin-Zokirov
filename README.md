@@ -6,4 +6,4 @@
 
 🔗 Check out my portfolio: [jaloliddindev.uz](https://jaloliddindev.uz)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JZokirov&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaloliddin-Zokirov&show_icons=true&theme=dark)
