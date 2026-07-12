@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I'm Jaloliddin Zokirov</h1>
 
 <p align="center">
-🚀 <b>Front-End Developer</b> | React.js | UI/UX | Web Performance  
-💡 Passionate about crafting modern, engaging, and high-performance web applications  
+🚀 <b>Software Engineer</b> | UI/UX | Web Performance.   
+🔹 Crafting modern, high-performance & user-friendly web applications
 🌱 Currently exploring Full-Stack Development & AI  
 </p>
+
 
 ---
 
