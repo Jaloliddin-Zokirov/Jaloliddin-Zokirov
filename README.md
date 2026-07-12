@@ -9,12 +9,13 @@
 
 ---
 
-### 🌍 About Me  
-- 🎓 **Computer and Network Engineering student** with a passion for web technologies  
-- 💻 Experienced in **React.js, Tailwind CSS, Material-UI, Bootstrap**  
-- 🛠️ Always optimizing for **performance, accessibility, and user experience**  
-- 🎯 Exploring **Backend Development** to become a Full-Stack Developer  
-- ✨ Constantly learning and improving to build **better digital experiences**  
+### 🌍 About Me
+
+- 🎓 Computer and Network Engineering student
+- 💻 Frontend Developer specializing in React, Next.js, TypeScript, and Tailwind CSS
+- ⚡ Passionate about building fast, responsive, and user-friendly web applications
+- 🛠️ Expanding my expertise in Backend Development, DevOps, and AI
+- 📚 Always learning, experimenting, and improving as a Software Engineer
 
 ---
 
