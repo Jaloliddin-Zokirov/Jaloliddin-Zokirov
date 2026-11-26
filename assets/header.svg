@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jaloliddin Zokirov — Full-stack Developer">
+  <title>Jaloliddin Zokirov — Full-stack Developer</title>
+  <style>
+    :root { --bg:#0b0c0e; --panel:#121318; --border:#26282f; --fg:#f2f2f4; --muted:#9a9ca6; --faint:#5d606b; --accent:#8b6dff; }
+    @media (prefers-color-scheme: light) {
+      :root { --bg:#ffffff; --panel:#f6f6f8; --border:#e3e4e8; --fg:#121318; --muted:#555865; --faint:#9a9ca6; --accent:#6b46f0; }
+    }
+    .bg { fill: var(--bg); }
+    .panel { fill: var(--panel); stroke: var(--border); }
+    .grid { stroke: var(--border); stroke-width: 1; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .dot { fill: var(--border); }
+    .label { fill: var(--faint); font-size: 14px; }
+    .name { fill: var(--fg); font-size: 58px; font-weight: 700; letter-spacing: -1.5px; }
+    .prompt { fill: var(--accent); font-size: 24px; font-weight: 600; }
+    .role { fill: var(--fg); font-size: 24px; }
+    .caret { fill: var(--accent); }
+    .meta { fill: var(--muted); font-size: 15px; }
+    .accent { fill: var(--accent); }
+    .glow { fill: var(--accent); opacity: .16; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 1086px 74px; }
+    @keyframes pulse { 0%,100% { opacity:.9 } 50% { opacity:.35 } }
+    .blink { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    @media (prefers-reduced-motion: reduce) { .pulse, .blink { animation: none; } }
+  </style>
+  <defs>
+    <radialGradient id="g" cx="0.85" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#8b6dff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#8b6dff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" class="grid" opacity=".55"/>
+    </pattern>
+    <!-- One clip per rotating line: width grows (typing), holds, shrinks (erasing). 12s cycle, 4s per line. -->
+    <clipPath id="c1"><rect x="120" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.12;0.27;0.32;1" values="0;292;292;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c2"><rect x="120" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.3333;0.4533;0.6033;0.6533;1" values="0;0;407;407;0;0"/>
+    </rect></clipPath>
+    <clipPath id="c3"><rect x="120" y="186" height="40" width="0">
+      <animate attributeName="width" dur="12s" repeatCount="indefinite" keyTimes="0;0.6666;0.7866;0.9366;0.9866;1" values="0;0;450;450;0;0"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect class="bg" width="1200" height="320" rx="16"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#g)"/>
+
+  <!-- window chrome -->
+  <rect class="panel" x="24" y="24" width="1152" height="272" rx="12" fill-opacity=".72"/>
+  <circle class="dot" cx="50" cy="48" r="6"/><circle class="dot" cx="70" cy="48" r="6"/><circle class="dot" cx="90" cy="48" r="6"/>
+  <text class="mono label" x="600" y="53" text-anchor="middle">~/jzzdev.uz — whoami</text>
+
+  <!-- name -->
+  <text class="sans name" x="72" y="150">Jaloliddin Zokirov</text>
+  <rect class="accent" x="74" y="166" width="56" height="4" rx="2"/>
+
+  <!-- rotating role line -->
+  <text class="mono prompt" x="72" y="214">$</text>
+  <g clip-path="url(#c1)"><text class="mono role" x="120" y="214">Full-stack Developer</text></g>
+  <g clip-path="url(#c2)"><text class="mono role" x="120" y="214">Next.js · React · TypeScript</text></g>
+  <g clip-path="url(#c3)"><text class="mono role" x="120" y="214">Building fast, multilingual web</text></g>
+  <rect class="caret" x="124" y="194" width="12" height="26" rx="1" opacity=".85">
+    <animate attributeName="x" dur="12s" repeatCount="indefinite" keyTimes="0;0.12;0.27;0.32;0.3333;0.4533;0.6033;0.6533;0.6666;0.7866;0.9366;0.9866;1" values="124;416;416;124;124;531;531;124;124;574;574;124;124"/>
+    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values=".85;0"/>
+  </rect>
+
+  <!-- footer meta -->
+  <text class="mono meta" x="72" y="264">Tashkent, Uzbekistan  ·  Full-stack Developer @ NewProWeb  ·  jzzdev.uz</text>
+</svg>
